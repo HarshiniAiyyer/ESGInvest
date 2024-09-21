@@ -46,9 +46,6 @@ The use of NSGA-II will provide a **Pareto optimal front**, offering multiple so
   
 ![pymoo](https://img.shields.io/badge/pymoo-v0.4.2-brightgreen)
 
-## License
-This project is licensed under the MIT License.
-
 ## Acknowledgments
 - Inspiration for multi-objective optimization from the **pymoo** library.
 - Special thanks to open-source libraries and the developer community for guidance and resources.
