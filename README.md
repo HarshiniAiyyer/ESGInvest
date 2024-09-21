@@ -1,5 +1,4 @@
 # ESGInvest
-# ESG Company Recommender System Using Genetic Algorithm
 
 This project implements a simple recommender system that selects companies based on their **Environmental, Social, and Governance (ESG)** scores using a **Genetic Algorithm (GA)**. The system works on a dataset of companies and their corresponding ESG ratings to suggest a subset of companies with optimized ESG risk scores.
 
